@@ -3,7 +3,7 @@ DATASET : AMES, IOWA HOUSING DATASET
 LINK TO DATASET: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/download/train.csv 
 
 AUTHORS:
-DARSHAN KAVATHE & AKSHAY PUDAGE (ap7558 AT rit DOT edu)
+DARSHAN KAVATHE & AKSHAY PUDAGE 
 '''
 import pandas as pd
 import numpy as np
